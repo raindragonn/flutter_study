@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "987962576289",
+    "project_id": "flutter-data-firebase-b3e10",
+    "storage_bucket": "flutter-data-firebase-b3e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987962576289:android:6177bf3101b7234d2a4fe0",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987962576289-1ebh4a2fg79oe30j1fplr0njlvssmfmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhH4E_7kXazOSeazx25GmAMW7pt3tnvjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987962576289-1ebh4a2fg79oe30j1fplr0njlvssmfmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987962576289-mabtg2oc8t6evegt433fedqtgah51bp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raindragon.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
